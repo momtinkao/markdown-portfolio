@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*失敗為成功之母*
+***有些沒能開口的話
+ 一開始缺的是勇氣
+ 後來缺的已經是目的地***
